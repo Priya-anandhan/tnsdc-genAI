@@ -1,4 +1,4 @@
-# Generating Realistic Number Digits with DCGAN
+# Image generation using DCGAN
 
 This project aims to develop a model using deep learning techniques, specifically DCGAN (Deep Convolutional Generative Adversarial Network), to generate realistic images of number digits resembling the distribution of the MNIST dataset.
 
